@@ -14,6 +14,6 @@
 | 653  | [2SumIV](/problems/653-2SumBST.md)        |    Easy    | 
 | 454  | [4SumII](/problems/454-4SumII.md)         |    medium  |  HashMap
 | 560  | [Subarray](/problems/560-Subarray.md)     |    medium  |  HashMap
-| 560  | [3Sum Small](/problems/560-Subarray.md)     |    medium  |  
+| 121  | [Buy and Sell Stock](/problems/121-Stock.md)     |    easy  |  Kadane
 
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    | [Java](https://github.com/) 
