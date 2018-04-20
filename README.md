@@ -15,7 +15,9 @@
 | 454  | [4SumII](/problems/454-4SumII.md)         |    medium  |  HashMap
 | 560  | [Subarray](/problems/560-Subarray.md)     |    medium  |  HashMap
 | 053  | [Maximum Subarray](/problems/121-Stock.md)     |    easy  |  Kadane
-| 121  | [Buy and Sell Stock](/problems/121-Stock.md)     |    easy  |  Kadane
-| 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  |  Kadane
+| 121  | [Buy and Sell Stock](/problems/121-Stock.md)     |    easy  | 
+| 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  | 
+| 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  |  
+
 
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    | [Java](https://github.com/) 
