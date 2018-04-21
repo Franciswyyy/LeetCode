@@ -17,7 +17,7 @@
 | 053  | [Maximum Subarray](/problems/121-Stock.md)     |    easy  |  Kadane
 | 121  | [Buy and Sell Stock](/problems/121-Stock.md)     |    easy  | 
 | 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  | 
-| 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  |  
+| 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    medium  |  
 
 
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    | [Java](https://github.com/) 
