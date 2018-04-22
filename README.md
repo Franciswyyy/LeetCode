@@ -18,9 +18,8 @@
 | 121  | [Buy and Sell Stock](/problems/121-Stock.md)     |    easy  | 
 | 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    easy  | 
 | 121  | [Buy and Sell Stock2](/problems/121-Stock.md)     |    medium  |  
-
 | 007  | [Reverse Integer](/problems/007-Reverse_Integer.md)            |    Easy    |   
-| 009  | [Palindrome Number](/problems/009. Palindrome_Number.md)           |    Easy    |   
+| 009  | [Palindrome Number](/problems/009-Palindrome_Number.md)           |    Easy    |   
 | 014  | [Longest Common Prefix](/problems/013-Roman2Integer.md)            |    Easy    |   
 | 013  | [Roman to Integer](/problems/014-Longest_Common_Prefix.md)            |    Easy    |   
 
