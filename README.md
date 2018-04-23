@@ -22,6 +22,12 @@
 | 009  | [Palindrome Number](/problems/009-Palindrome_Number.md)           |    Easy    |   
 | 014  | [Longest Common Prefix](/problems/014-Longest_Common_Prefix.md)            |    Easy    |   
 | 013  | [Roman to Integer](/problems/013-Roman2Integer.md)            |    Easy    |   
+| 020  | [Valid Parentheses](/problems/020-Valid_Parentheses.md)            |    Easy    | 
+| 026  | [Remove Duplicates Array](/problems/026-Duplicates_Array.md)            |    Easy    | 
+| 027  | [Remove Element](/problems/027-Remove_Element.md)            |    Easy    | 
+| 028  | [Implement strStr()](/problems/028-Implement_strStr().md)            |    Easy    | 
+| 035  | [Search Insert Position](/problems/035-Insert_Position.md)            |    Easy    | 
+| 283  | [Move Zeroes](/problems/283-Move_Zeroes.md)            |    Easy    | 
 
 
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    | [Java](https://github.com/) 
