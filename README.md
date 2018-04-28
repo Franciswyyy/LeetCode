@@ -31,5 +31,6 @@
 | 283  | [Move Zeroes](/problems/283-Move_Zeroes.md)            |    Easy    | 
 | 283  | [Move Zeroes](/problems/283-Move_Zeroes.md)            |    Easy    | 
 | 283  | [Move Zeroes](/problems/283-Move_Zeroes.md)            |    Easy    | 
+| 283  | [Move Zeroes](/problems/283-Move_Zeroes.md)            |    Easy    | 
 
 | 001  | [Two Sum](https://leetcode.com/problems/two-sum/) |    Easy    | [Java](https://github.com/) 
